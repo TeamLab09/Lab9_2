@@ -1,0 +1,62 @@
+[33mcommit 78c0cdfdd1abf98c951fcdff2fa19be62a860602[m
+Author: Dejack <>
+Date:   Sun Nov 13 16:23:36 2016 -0800
+
+    finished ci-fun02b
+    Signed-off-by:Dejack
+
+[33mcommit eaeda988f32fad4ea0273f261865d6b34d6b0f34[m
+Author: Dejack <bchen1104@gmail.com>
+Date:   Thu Nov 10 14:26:46 2016 -0800
+
+    done 3-4
+    Signed-off-by:Dejack <bchen1104@gmail.com>
+
+[33mcommit 866ed1477f60ee71cfa2867741a5b13e515a97e7[m
+Author: Dejack <bchen1104@gmail.com>
+Date:   Thu Nov 10 14:08:50 2016 -0800
+
+    done 2. Show the Existing Menu Items
+    Signed-off-by:Dejack <bchen1104@gmail.com>
+
+[33mcommit a603ada67194bd49114d7e75852023ad37fe91f0[m
+Author: Dejack <bchen1104@gmail.com>
+Date:   Thu Nov 10 14:05:56 2016 -0800
+
+    done 2. Show the Existing Menu Items
+    Signed-off-by:Dejack <bchen1104@gmail.com>
+
+[33mcommit 3ad5735ecb6d1c32d9f14ecef3eee7ddb6e9734e[m
+Author: Dejack <bchen1104@gmail.com>
+Date:   Thu Nov 3 15:17:41 2016 -0700
+
+    fixed git ignore
+    Signed-off-by:Dejack <bchen1104@gmail.com>
+
+[33mcommit 96b8b5852917b9407de4013034903608469cc321[m
+Author: Dejack <bchen1104@gmail.com>
+Date:   Thu Nov 3 15:03:59 2016 -0700
+
+    included changelog
+    
+    Signed-off-by:Dejack <bchen1104@gmail.com>
+
+[33mcommit 8572b5183d6a565aad7957de4e47d22eddfcbb7d[m
+Author: Dejack <bchen1104@gmail.com>
+Date:   Thu Nov 3 14:55:30 2016 -0700
+
+    finished job 1
+    Signed-off-by:Dejack <bchen1104@gmail.com>
+
+[33mcommit 27fb724dd28c076cfa567fa6a57785bd2862be39[m
+Author: Master Yoda <jim_parry@bcit.ca>
+Date:   Thu Nov 3 09:02:31 2016 -0700
+
+    Setup for lab 6
+    Signed-off-by:Master Yoda <jim_parry@bcit.ca>
+
+[33mcommit 8736dc4119ce4741aebd472b2e29d8d80a5539dc[m
+Author: Instructor, Computer Systems Technology <jim_parry@bcit.ca>
+Date:   Thu Nov 3 08:59:41 2016 -0700
+
+    Initial commit
